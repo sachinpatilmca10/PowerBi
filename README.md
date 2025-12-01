@@ -1,4 +1,5 @@
 <img width="1319" height="741" alt="image" src="https://github.com/user-attachments/assets/e05cacd4-744c-46d8-8dfb-9095841ea0f8" />
+<img width="1318" height="745" alt="image" src="https://github.com/user-attachments/assets/286317ee-42e5-42fd-bf5c-9529ea6cf301" />
 
 Flipkart Sales Analysis – Power BI Dashboard
 
